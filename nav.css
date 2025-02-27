@@ -1,0 +1,33 @@
+.logo {
+    height: 40px;
+    margin: 15px;
+     padding: ;               
+
+}
+
+.navstyle {
+    background-color:aquamarine;
+    height: 70px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color:lightgoldenrodyellow;
+}
+.menu {
+    list-style: none;
+    float: right;
+    margin-right: 10px;
+}
+.menu li {
+    display: inline-block;
+    padding-right: 30px;
+    padding: 8px;
+    
+   
+}
+.active {
+    color: white;
+    background-color:cadetblue ;
+    padding: 7px 7px;
+}
